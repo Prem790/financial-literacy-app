@@ -9,7 +9,9 @@ dotenv.config();
 const app = express();
 
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors({
+  origin: "https://financial-literacy-app-frontend.onrender.com"
+}));
 
 // Route for handling user data
 const userRoutes = require('./routes/users');
