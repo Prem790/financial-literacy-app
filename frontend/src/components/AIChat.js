@@ -22,7 +22,7 @@ function AIChat() {
       setIsLoading(true);
       
       try {
-        const response = await axios.post('http://localhost:5000/api/chat', { message: input });
+        const response = await axios.post('https://financial-literacy-app.onrender.com/api/chat', { message: input });
         setMessages(messages => [...messages, { text: response.data.reply, sender: 'ai' }]);
       } catch (error) {
         console.error('Error:', error);
