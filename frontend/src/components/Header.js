@@ -36,7 +36,7 @@ function Header() {
     >
       <div className="container mx-auto flex justify-between items-center px-4 md:px-8">
         <Link to="/" className="text-3xl font-bold text-blue-500 hover:text-blue-400 transition-colors">
-          FinLit Pro
+        Arthaveil
         </Link>
         <div className="md:hidden">
           <button onClick={() => setMenuOpen(!menuOpen)} className="text-white focus:outline-none">

@@ -41,7 +41,7 @@ function Home() {
         <div className="mb-6 flex justify-center">
           {animationData && <Lottie animationData={animationData} className="w-64 h-64" />}
         </div>
-        <h1 className="text-5xl font-bold mb-4">Welcome to FinLit Pro</h1>
+        <h1 className="text-5xl font-bold mb-4">Welcome to Arthaveil</h1>
         <p className="text-xl mb-8">
           Your gateway to financial literacy and smart investing.
         </p>
@@ -90,7 +90,7 @@ function Home() {
           className="mx-auto w-2/3 md:w-1/2 rounded-lg shadow-lg"
         />
         <p className="text-lg mt-4">
-          At FinLit Pro, we empower you to make informed financial decisions.
+          At Arthaveil, we empower you to make informed financial decisions.
         </p>
       </motion.div>
 
@@ -132,7 +132,7 @@ function Home() {
         <div className="flex flex-wrap justify-around">
           <ReviewCard
             name="John Doe"
-            review="FinLit Pro has completely changed the way I approach investing. The community is fantastic!"
+            review="Arthaveil has completely changed the way I approach investing. The community is fantastic!"
             avatar={userAvatar1}
           />
           <ReviewCard
