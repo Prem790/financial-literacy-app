@@ -30,10 +30,10 @@ Experience Arthaveil live at: [https://sprl.in/Arthaveil](https://sprl.in/Arthav
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/financial-literacy-webapp.git
+https://github.com/Prem790/financial-literacy-app.git
 
 # Navigate to the project directory
-cd financial-literacy-webapp
+cd financial-literacy-app
 
 # Install dependencies for both frontend and backend
 cd frontend
@@ -91,9 +91,6 @@ The application is currently deployed and accessible to everyone. Visit [https:/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Acknowledgments
 
@@ -105,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, please:
 - Visit our live site: [https://sprl.in/Arthaveil](https://sprl.in/Arthaveil)
 - Open an issue on GitHub
-- [Your additional contact information]
+- Mail me :- jadwaniprem12@gmail.com
 
 ---
 
