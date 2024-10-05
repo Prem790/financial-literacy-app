@@ -81,9 +81,6 @@ npm start
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Acknowledgments
 
@@ -92,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions or feedback, please open an issue or reach out to [your contact information].
+For questions or feedback, please open an issue or reach out to jadwaniprem12@gmail.com.
 
 ---
 
