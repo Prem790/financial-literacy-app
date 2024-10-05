@@ -25,10 +25,10 @@ An interactive web application designed to make learning about financial concept
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/financial-literacy-webapp.git
+https://github.com/Prem790/financial-literacy-app.git
 
 # Navigate to the project directory
-cd financial-literacy-webapp
+cd financial-literacy-app
 
 # Install dependencies for both frontend and backend
 cd frontend
